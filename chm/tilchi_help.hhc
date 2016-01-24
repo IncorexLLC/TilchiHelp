@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800237">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Справка Tilchi 1.0">
+		<param name="Local" value="index.htm">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Лицензионное соглашение">
+		<param name="Local" value="license.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Регистрация">
+		<param name="Local" value="register.htm">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Регистрация на сайте">
+		<param name="Local" value="register_site.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Регистрация по e-mail">
+		<param name="Local" value="register_email.htm">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Интерфейс Tilchi 1.0">
+		<param name="Local" value="interface.htm">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Главное окно">
+		<param name="Local" value="main_index.htm">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Главное окно">
+		<param name="Local" value="main_window.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Панель инструментов: Меню">
+		<param name="Local" value="panel_menu.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Панель инструментов: Сервис">
+		<param name="Local" value="panel_service.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Панель инструментов: Совет">
+		<param name="Local" value="panel_tip.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Панель инструментов: Найти в статье">
+		<param name="Local" value="panel_find.htm">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Диалоги">
+		<param name="Local" value="dialogs.htm">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Диалог История">
+		<param name="Local" value="history.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Настройки">
+		<param name="Local" value="settings.htm">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Общие настройки">
+		<param name="Local" value="settings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Настройки горячих клавиш">
+		<param name="Local" value="settings_hotkeys.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Настройки оформления">
+		<param name="Local" value="settings_design.htm">
+		</OBJECT>
+</UL>
+</UL>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Горячие клавиши">
+		<param name="Local" value="hotkeys.htm">
+		</OBJECT>
+</UL>
+</UL>
+</BODY>
+</HTML>

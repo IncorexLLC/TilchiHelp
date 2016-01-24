@@ -1,0 +1,147 @@
+/***********************************************/
+/* tilstyle.css - Tilchi 1.0 Help Style        */
+/* Copyright  2006-2007 Incorex Software Ltd. */
+/***********************************************/
+
+BODY {
+    background-color: window;
+	background-image: none;
+    margin-left: 0em;
+    margin-top: 0em;
+    margin-right: 0em;
+    margin-bottom: 6em;
+}
+
+BODY, P, A, LI, TD, H1, H2, H3, H4, H5, H6 {
+    font-family: "Verdana", "Arial", sans-serif;
+    color: windowtext;
+}
+
+P, H1, H2, H3, H4, H5, H6, HR, p.Subtitle {
+    margin-left: 8pt;
+    margin-right: 8pt;
+}
+
+H2, H3, H4, H5, H6 {
+	margin-bottom: 4pt;
+}
+
+P {
+	margin-top: 0pt;
+}
+
+.table-margin {
+	margin-left: 8pt;
+}
+
+.bordered-table-cells {
+	BORDER-RIGHT: #a7abac 1px solid; 
+	PADDING-RIGHT: 4px; 
+	BORDER-TOP: #a7abac 1px solid; 
+	PADDING-LEFT: 4px; 
+	PADDING-BOTTOM: 4px; 
+	BORDER-LEFT: #a7abac 1px solid; 
+	PADDING-TOP: 4px; 
+	BORDER-BOTTOM: #a7abac 1px solid; 
+	BACKGROUND-COLOR: #f3f4f6;
+	margin-left: 8pt;
+}
+
+.glossary {
+	font-family: 'Verdana', 'Arial', sans-serif; 
+    font-size: 8pt; 
+	text-decoration: underline;
+    color: #006600; 
+    cursor: default; 
+}
+
+.NavTableSection {
+    font-size: 10pt;
+	color: #08296B;
+	font-weight: bold;
+	text-decoration: none; 
+}
+
+.PageTitle {
+	font-size: 8pt;
+	color: #003399;
+    font-weight: bold;
+}
+
+.Link { 
+	font-size: 8pt;
+	color: #28558E;
+	font-weight: bold;
+}
+
+.Text { 
+	font-size: 8pt;
+	color: #000000;
+}
+
+.Text4Button { 
+	font-size: 8pt;
+	color: #000000;
+	margin-top: +16pt;
+}
+
+.NoteText {
+	font-size: 8pt;
+	color: #003399;
+    font-weight: bold;
+	margin-left: 30pt;
+	margin-top: -2pt;
+}
+
+.Copyright {
+	font-size: 8pt;
+	font-weight: bold;
+	color: #28558E;
+	margin-top: -16pt;
+}
+
+.reserved {
+	font-size:9
+}
+
+.Subtitle {
+	font-size: 8pt;
+	font-weight: bold;
+	color: #0F3063;
+	margin-top: -16pt;
+}
+
+.Title {
+	font-size: 16pt;
+	color: #28558E;
+}
+
+BODY, P, LI, TD {
+    font-size: 8pt;
+    line-height: 1.5;
+}
+
+FORM, LABEL, INPUT, TEXTAREA, SELECT, BUTTON, FIELDSET, LEGEND, OBJECT {
+    font-family: "Tahoma", "MS Sans Serif", sans-serif;
+    font-size: 8pt;
+    color: windowtext;
+}
+
+IMG {
+    border: none;
+}
+
+HR {
+    color: #0F3063;
+    width: 100%;
+    height: 1px;
+	margin-bottom: 2pt;
+}
+
+A:link, A:visited {
+	color: #0B3967; 
+}
+
+A:hover, A:visited:hover {
+	color: #1679DC;
+}

@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling e:\Incorex\Help_New\project\tilchi_help.chm
+
+
+Compile time: 0 minutes, 1 second
+21	Topics
+103	Local links
+20	Internet links
+22	Graphics
+
+
+Created e:\Incorex\Help_New\project\tilchi_help.chm, 184,184 bytes
+Compression decreased file by 41,371 bytes.

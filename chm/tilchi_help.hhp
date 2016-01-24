@@ -1,0 +1,36 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\project\tilchi_help.chm
+Contents file=tilchi_help.hhc
+Index file=tilchi_help.hhk
+Binary Index=Yes
+Binary TOC=Yes
+Full-text search=Yes
+Language=0x0419
+Title=Справка Tilchi 1.0
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="Справка Tilchi 1.0","tilchi_help.hhc","tilchi_help.hhk","index.htm",,,,,,0x50520,240,0x80E,[262,184,762,584],0x100B0000,0x30000,,0,0,0,0
+
+[FILES]
+index.htm
+license.htm
+register.htm
+register_site.htm
+register_email.htm
+interface.htm
+main_index.htm
+main_window.htm
+panel_menu.htm
+panel_service.htm
+panel_tip.htm
+panel_find.htm
+dialogs.htm
+history.htm
+settings.htm
+settings_general.htm
+settings_hotkeys.htm
+settings_design.htm
+hotkeys.htm
