@@ -1,0 +1,33 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\chm\chm.chm
+Contents file=.hhc
+Index file=.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0419
+Title=chm
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="chm",".hhc",".hhk","","",,,,,0x40520,240,0x184E,[262,184,762,584],,,,0,1,1,0
+
+[FILES]
+..\chm\history.htm
+..\chm\hotkeys.htm
+..\chm\interface.htm
+..\chm\license.htm
+..\chm\main_index.htm
+..\chm\main_window.htm
+..\chm\panel_find.htm
+..\chm\panel_menu.htm
+..\chm\panel_service.htm
+..\chm\panel_tip.htm
+..\chm\panels.htm
+..\chm\register_email.htm
+..\chm\register_site.htm
+..\chm\settings.htm
+..\chm\settings_design.htm
+..\chm\settings_general.htm
+..\chm\settings_hotkeys.htm
